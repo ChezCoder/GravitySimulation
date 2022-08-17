@@ -1,0 +1,4 @@
+tests
+.vscode
+node_modules
+jest.config.js
